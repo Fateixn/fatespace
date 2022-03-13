@@ -121,7 +121,7 @@ nav.sticky .menu li a:hover {
 /* start home section style */
 .home {
   display: flex;
-  background-image: url(../img/bg.png);
+  background-image: url(../img/bg.jfif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
